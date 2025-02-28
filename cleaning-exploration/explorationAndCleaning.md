@@ -36,4 +36,4 @@ From then I looked at the genres and themes provided in the datasets. Upon compa
 
 ## ** Age Rating Missing From 0.00% of Entries **
 
-After confirming that all entries have complete release date information, I proceeded to evaluate the consistency of data across key attributes, including country, release type, and age rating. These attributes could also be useful for identifying meaningful groupings of movies. With this I was confident that my data was thorough enough to explore my hypothesis.
+After confirming that all entries have complete release date information, I proceeded to evaluate the consistency of data across key attributes, including country, release type, and age rating. These attributes could also be useful for identifying meaningful groupings of movies. With this I was confident that my data was clean and thorough enough to explore my hypothesis.
