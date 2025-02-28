@@ -26,7 +26,7 @@ I started by looking at the amount of movies produced per year. I realized that 
 
 ### ('Graphic violence and brutal revenge',)
 
-From then I looked at the genres and themes provided in the datasets. Upon comparison, I found that themes were much more specific, while genres provided broader categorizations. Given this, I decided to use genres as my primary method for grouping movies by type.
+From then I looked at the genres and themes provided in the datasets. Upon comparison, I found that themes were much more specific, while genres offered broader categorizations that aligned better with my hypothesis.
 
 ## ** Date Missing From 0.00% of Entries **
 
