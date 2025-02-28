@@ -6,6 +6,8 @@ In my initial proposal, I aimed to examine how various factors influence movie r
 
 Due to this, I decided to change my initial proposal from focusing on ratings to focusing on trends of the most-produced movie genres.
 
+![Movies Produced Per Year](movies_per_year.png)
+
 I started by looking at the amount of movies produced per year. I realized that the dataset included movies released from 1874 to 2031. When looking at the histogram of movies over time, I was able to confirm that the dataset provides a consistent and comprehensive distribution of movies across decades, ensuring that there is enough data to analyze trends in genre popularity over time.
 
 ## ** Examples of Genres **
