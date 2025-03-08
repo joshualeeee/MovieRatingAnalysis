@@ -10,7 +10,7 @@ I love watching movies and would be interested to explore if the popularity of c
 
 ## 3. What is your hypothesis? Why leads you towards that hypothesis?
 
-My hypothesis is that dominant movie types in each country shift over time in response to cultural, political, and technological changes. For example, historical events like wars might increase action/war movies being produced.
+My hypothesis is that dominant movie genres shift over time in response to cultural, political, and technological changes. For example, historical events like wars might increase action/war movies being produced.
 
 ## 4. What is the primary dataset(s) you will use to answer the question? The dataset(s) must be at least 15GB in their original form when downloaded. Provide links. You may not choose r/place (any year) as your analysis set.
 
